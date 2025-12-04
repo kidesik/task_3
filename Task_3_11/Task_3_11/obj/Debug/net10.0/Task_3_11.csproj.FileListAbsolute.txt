@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Task_3_11\Task_3_11\bin\Debug\net10.0\Task_3_11.exe
+C:\Users\User\source\repos\Task_3_11\Task_3_11\bin\Debug\net10.0\Task_3_11.deps.json
+C:\Users\User\source\repos\Task_3_11\Task_3_11\bin\Debug\net10.0\Task_3_11.runtimeconfig.json
+C:\Users\User\source\repos\Task_3_11\Task_3_11\bin\Debug\net10.0\Task_3_11.dll
+C:\Users\User\source\repos\Task_3_11\Task_3_11\bin\Debug\net10.0\Task_3_11.pdb
+C:\Users\User\source\repos\Task_3_11\Task_3_11\obj\Debug\net10.0\Task_3_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Task_3_11\Task_3_11\obj\Debug\net10.0\Task_3_11.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Task_3_11\Task_3_11\obj\Debug\net10.0\Task_3_11.AssemblyInfo.cs
+C:\Users\User\source\repos\Task_3_11\Task_3_11\obj\Debug\net10.0\Task_3_11.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Task_3_11\Task_3_11\obj\Debug\net10.0\Task_3_11.dll
+C:\Users\User\source\repos\Task_3_11\Task_3_11\obj\Debug\net10.0\refint\Task_3_11.dll
+C:\Users\User\source\repos\Task_3_11\Task_3_11\obj\Debug\net10.0\Task_3_11.pdb
+C:\Users\User\source\repos\Task_3_11\Task_3_11\obj\Debug\net10.0\Task_3_11.genruntimeconfig.cache
+C:\Users\User\source\repos\Task_3_11\Task_3_11\obj\Debug\net10.0\ref\Task_3_11.dll
