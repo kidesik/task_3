@@ -1,0 +1,10 @@
+﻿Console.WriteLine("Введиет трехзначное число");
+int n = Convert.ToInt32(Console.ReadLine());
+int a = n / 100;
+int b = n % 100 / 10;
+int c = n % 10;
+Console.WriteLine(c + "" + b + "" + a);
+Console.WriteLine(b + "" + a + "" + c);
+Console.WriteLine(a + "" + c + "" + b);
+Console.WriteLine(c + "" + a + "" + b);
+Console.WriteLine(b + "" + c + "" + a);
