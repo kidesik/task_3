@@ -1,0 +1,12 @@
+﻿Console.WriteLine("Введите трехначное число и двухначное");
+int A = Convert.ToInt32(Console.ReadLine());
+int B = Convert.ToInt32(Console.ReadLine());
+int a3 = A / 100;
+int a2 = A % 100 / 10;
+int b2 = B % 100 / 10;
+int a1 = A % 100 % 10;
+int b1  = B % 100 % 10;
+int c1 = (a1 + b1) % 10;
+int c2  = (a2 + b2 + (a2+b2)/10) % 10;
+int c3 = a3 + ((a2 + b2 + (a2 + b2) / 10) / 10);
+Console.WriteLine(c3 + "" + c2 + "" + c1);
