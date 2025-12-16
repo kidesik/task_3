@@ -1,0 +1,10 @@
+﻿Console.WriteLine("Введите четырехзначное число");
+int n = Convert.ToInt32(Console.ReadLine());
+int a = n / 1000;
+int b = n % 1000 / 100;
+int c = n % 1000  % 100 / 10;
+int d = n % 1000 % 100 % 10;
+Console.WriteLine(d + "" + c + "" + b + "" + a);
+Console.WriteLine(b + "" + a + "" + d + "" + c);
+Console.WriteLine(a + "" + c + "" + b + "" + d);
+Console.WriteLine(c + "" + d + "" + a + "" + b);
