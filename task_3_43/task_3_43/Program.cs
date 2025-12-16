@@ -1,0 +1,10 @@
+﻿Console.WriteLine("введите двузначные числа");
+int A = Convert.ToInt32(Console.ReadLine());
+int B = Convert.ToInt32(Console.ReadLine());
+int a2 = A / 10;
+int  b2 = B / 10;
+int a1 = A% 10;
+int b1  = B% 10;
+int  c1 = (a1 +b1)%10;
+int c2 = a2+b2 + (a1 +b1)/10;
+Console.WriteLine(c2 + "" +  c1);
